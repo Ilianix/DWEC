@@ -1,0 +1,11 @@
+WEB COMPONENTS:
+
+Son la creacion de ("funciones") que nos crean elementos de html y tenemos la capacidad de personalizarlos como queramos 
+y reutilizarlos para un futuro.
+
+Existen 3 tipos principales:
+	Atomo: Crear un componente simple ("seria personalizar un elemento unico")
+	Molecula: Conjunto de atomos ("por ejemplo: a una select le tendras que definir sus opciones o una navbar
+					tiene mas de un elemento")
+	Organismo: Seria la union de dichos componentes/atomos (crear un formulario con un boton seria un buen ejemplo
+								de definicion de organismo)
