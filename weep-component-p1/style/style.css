@@ -1,0 +1,32 @@
+.cuerpo{
+margin:0px !important;
+height:100% !important;
+background-image:url(media/fondo.PNG) !important;
+}
+.imagenPos{
+    margin-right: 5px;
+}
+.cuerpoCarta{
+    height:90vh !important; background-color:#343130;
+}
+.centrarElementos{
+    justify-content: center; margin-top: 5px;
+}
+.centrarElementosTitulo{
+    justify-content: center; margin-top: 5px;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.tiuloColor{
+    color: antiquewhite;
+}
+.separacionInput{
+    margin-top: 20px;
+}
+.Reversible{
+    flex-direction: row-reverse;
+}
+.centrarBoton{
+    align-items: flex-end;
+    text-align: right;
+}
