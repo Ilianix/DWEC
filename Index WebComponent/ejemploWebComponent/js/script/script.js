@@ -1,0 +1,4 @@
+crearNavbar();
+crearTitulo();
+createSelect();
+createPrecioReserva();
